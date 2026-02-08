@@ -3,11 +3,14 @@
 A new Flutter project for the mini project of sixth semester.
 group 
 TECHNEXA
-# members
+members
 
 1.Sinto Tomy 
+
 2.Kashinadh Rajesh
+
 3.Shino Jacob C X
+
 4.Adithya A
 
 ## Getting Started
