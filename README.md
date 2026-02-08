@@ -1,6 +1,12 @@
 # weather_app
 
-A new Flutter project.
+A new Flutter project for the mini project of sixth semester.
+group 
+TECHNEXA
+1.Sinto Tomy 
+2.Kashinadh Rajesh
+3.Shino Jacob C X
+4.Adithya A
 
 ## Getting Started
 
